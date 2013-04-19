@@ -1,4 +1,4 @@
 makmak
 ======
 
-Extended Makefile include helper
+Extended Makefile include helper (for C projects)
